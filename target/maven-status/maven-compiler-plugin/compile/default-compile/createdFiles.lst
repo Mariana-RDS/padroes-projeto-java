@@ -1,0 +1,12 @@
+com\vespertine\padroes\facade\Amplificador.class
+com\vespertine\padroes\facade\Luzes.class
+com\vespertine\padroes\facade\StreamingPlayer.class
+com\vespertine\padroes\FreteSedex.class
+com\vespertine\padroes\FreteStrategy.class
+com\vespertine\padroes\Singleton.class
+com\vespertine\padroes\FretePac.class
+com\vespertine\padroes\CalcularFreteService.class
+com\vespertine\padroes\Padroes.class
+com\vespertine\padroes\facade\HomeTheaterFacade.class
+com\vespertine\padroes\Singleton$InstanceHolder.class
+com\vespertine\padroes\facade\Projetor.class
